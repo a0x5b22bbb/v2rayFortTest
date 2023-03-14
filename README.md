@@ -1,1 +1,3 @@
-# v2rayFortTest
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0bHPkuJPnlKjoioLngrkxMSIsCiAgImFkZCI6ICJ0bHMuaGJ6eWMueHl6IiwKICAicG9ydCI6IDE0MDcxLAogICJpZCI6ICIyMmI0YWI1Zi03ZTY3LTQ4MDktZTczOC1iMTlhZTNiMGUxY2IiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
+
+vless://ee0afe78-a459-4655-911a-b498b69e822e@tls.hbzyc.xyz:10322?type=tcp&security=xtls&flow=xtls-rprx-direct#jack_mua%E4%B8%93%E7%94%A8
